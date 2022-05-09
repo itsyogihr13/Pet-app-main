@@ -1,0 +1,9 @@
+
+/* */
+
+tbody > tr:hover {
+  background-color: rgba(35, 226, 239, 0.663);
+  color: white;
+  cursor: pointer;
+  transition: all ease 0.5s;
+}

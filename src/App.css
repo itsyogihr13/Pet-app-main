@@ -1,0 +1,13 @@
+.createForm{
+  border: 1px solid black;
+  height: auto;
+  width: fit-content;
+  /* display: inline-block; */
+  /* justify-content: space-around; */
+
+}
+form>div{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid;
+}
